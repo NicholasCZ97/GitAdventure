@@ -1,1 +1,3 @@
 My journey evolves into ad adventure with Git
+
+Exploring the depths o Git commands and their powers.
